@@ -1,0 +1,5 @@
+# มองข้ามไฟล์ data base และ folder ขยะ ของ python
+backend/study_data.db
+*.db
+__pycache__/
+.pytest_cache/
